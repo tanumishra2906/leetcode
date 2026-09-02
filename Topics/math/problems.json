@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T19:34:11.049Z",
+  "updatedAt": "2026-09-02T19:34:22.593Z",
   "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0009-palindrome-number.c",
+          "path": "0009-palindrome-number/0009-palindrome-number.c",
+          "sha": "aacdc514f8c28d2a82e7113ee2ccf073256d6c4e",
+          "lastSyncedAt": "2026-09-02T19:34:22.593Z"
+        }
+      ]
+    },
     {
       "frontendId": "189",
       "title": "Rotate Array",
