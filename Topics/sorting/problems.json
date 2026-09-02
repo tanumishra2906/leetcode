@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-02T19:33:13.091Z",
+  "updatedAt": "2026-09-02T19:33:28.859Z",
   "problems": [
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "0088-merge-sorted-array/",
+      "readmePath": "0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0088-merge-sorted-array.java",
+          "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
+          "sha": "4027ef9368026c6c8dd8a4591f27bbff85af35d6",
+          "lastSyncedAt": "2026-09-02T19:33:28.859Z"
+        }
+      ]
+    },
     {
       "frontendId": "414",
       "title": "Third Maximum Number",
