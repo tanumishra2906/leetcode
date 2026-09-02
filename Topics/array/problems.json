@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-02T19:33:54.967Z",
+  "updatedAt": "2026-09-02T19:34:01.671Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,6 +123,26 @@
           "path": "0414-third-maximum-number/0414-third-maximum-number.java",
           "sha": "3bc54ceb5c36cc7e1ad0a8eeb95bbc04f7173881",
           "lastSyncedAt": "2026-09-02T19:33:13.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "problemName": "0867-transpose-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+      "folderPath": "0867-transpose-matrix/",
+      "readmePath": "0867-transpose-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0867-transpose-matrix.c",
+          "path": "0867-transpose-matrix/0867-transpose-matrix.c",
+          "sha": "96f963ed2960651948c23c937f7828f408a60bf2",
+          "lastSyncedAt": "2026-09-02T19:34:01.671Z"
         }
       ]
     },
