@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion"
+  },
+  "updatedAt": "2026-09-02T19:32:59.661Z",
+  "problems": [
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0206-reverse-linked-list.c",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.c",
+          "sha": "d13e2d0047bc99311813a093a6afba65214791b0",
+          "lastSyncedAt": "2026-09-02T19:32:59.661Z"
+        }
+      ]
+    }
+  ]
+}
