@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-02T19:32:03.790Z",
+  "updatedAt": "2026-09-02T19:32:48.093Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "142e119291d4c151e63da0dda345862b46f345e8",
+          "lastSyncedAt": "2026-09-02T19:32:48.093Z"
+        }
+      ]
+    },
     {
       "frontendId": "125",
       "title": "Valid Palindrome",
