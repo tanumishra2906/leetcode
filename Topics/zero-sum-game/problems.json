@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "zero-sum-game",
+    "name": "Zero-Sum Game"
+  },
+  "updatedAt": "2026-09-02T19:32:16.791Z",
+  "problems": [
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0877-stone-game.java",
+          "path": "0877-stone-game/0877-stone-game.java",
+          "sha": "f6830c06d00eecc89f5292f49be4056085ce426b",
+          "lastSyncedAt": "2026-09-02T19:32:16.791Z"
+        }
+      ]
+    }
+  ]
+}
