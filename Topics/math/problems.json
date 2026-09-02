@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T19:32:11.800Z",
+  "updatedAt": "2026-09-02T19:32:16.791Z",
   "problems": [
     {
       "frontendId": "189",
@@ -23,6 +23,26 @@
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "5e00651806dbdfa6a4d6da0668360c2131910c2a",
           "lastSyncedAt": "2026-09-02T19:31:41.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0877-stone-game.java",
+          "path": "0877-stone-game/0877-stone-game.java",
+          "sha": "f6830c06d00eecc89f5292f49be4056085ce426b",
+          "lastSyncedAt": "2026-09-02T19:32:16.791Z"
         }
       ]
     },
