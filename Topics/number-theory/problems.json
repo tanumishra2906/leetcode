@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory"
+  },
+  "updatedAt": "2026-09-02T19:33:37.467Z",
+  "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0258-add-digits.java",
+          "path": "0258-add-digits/0258-add-digits.java",
+          "sha": "ce037e9057d572047dda94450edc548467f47fe7",
+          "lastSyncedAt": "2026-09-02T19:33:37.467Z"
+        }
+      ]
+    }
+  ]
+}
