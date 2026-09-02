@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-02T19:33:13.091Z",
+  "updatedAt": "2026-09-02T19:33:21.639Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "733cf39f2974bf0f5e408f01808573da65bd69a6",
+          "lastSyncedAt": "2026-09-02T19:33:21.639Z"
+        }
+      ]
+    },
     {
       "frontendId": "189",
       "title": "Rotate Array",
