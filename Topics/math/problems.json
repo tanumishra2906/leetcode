@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T19:33:08.086Z",
+  "updatedAt": "2026-09-02T19:33:37.467Z",
   "problems": [
     {
       "frontendId": "189",
@@ -23,6 +23,26 @@
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "5e00651806dbdfa6a4d6da0668360c2131910c2a",
           "lastSyncedAt": "2026-09-02T19:31:41.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0258-add-digits.java",
+          "path": "0258-add-digits/0258-add-digits.java",
+          "sha": "ce037e9057d572047dda94450edc548467f47fe7",
+          "lastSyncedAt": "2026-09-02T19:33:37.467Z"
         }
       ]
     },
