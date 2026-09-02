@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting"
+  },
+  "updatedAt": "2026-09-02T19:33:13.091Z",
+  "problems": [
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "0414-third-maximum-number/",
+      "readmePath": "0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0414-third-maximum-number.java",
+          "path": "0414-third-maximum-number/0414-third-maximum-number.java",
+          "sha": "3bc54ceb5c36cc7e1ad0a8eeb95bbc04f7173881",
+          "lastSyncedAt": "2026-09-02T19:33:13.091Z"
+        }
+      ]
+    }
+  ]
+}
