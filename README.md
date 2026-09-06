@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 17 | 3 | 0 |
+| 21 | 17 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 12 |
+| 1 days | 2 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -27,27 +27,28 @@ Contains topicwise list of solved problems.
 | 2026-08-31 | 4 |
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
+| 2026-09-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 55% |
-| Math | 7 | 35% |
-| Two Pointers | 5 | 25% |
+| Array | 11 | 52% |
+| Math | 7 | 33% |
+| Two Pointers | 6 | 29% |
+| String | 3 | 14% |
 | Dynamic Programming | 2 | 10% |
 | Hash Table | 2 | 10% |
 | Linked List | 2 | 10% |
 | Recursion | 2 | 10% |
 | Simulation | 2 | 10% |
 | Sorting | 2 | 10% |
-| String | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Game Theory](Topics/game-theory/) | 1 |
@@ -62,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [String](Topics/string/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
