@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 17 | 4 | 0 |
+| 22 | 18 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 13 |
+| 2 days | 2 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,27 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-06 | 1 |
+| 2026-09-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 52% |
-| Math | 7 | 33% |
-| Two Pointers | 6 | 29% |
+| Array | 12 | 55% |
+| Math | 7 | 32% |
+| Two Pointers | 6 | 27% |
 | String | 3 | 14% |
-| Dynamic Programming | 2 | 10% |
-| Hash Table | 2 | 10% |
-| Linked List | 2 | 10% |
-| Recursion | 2 | 10% |
-| Simulation | 2 | 10% |
-| Sorting | 2 | 10% |
+| Dynamic Programming | 2 | 9% |
+| Hash Table | 2 | 9% |
+| Linked List | 2 | 9% |
+| Recursion | 2 | 9% |
+| Simulation | 2 | 9% |
+| Sorting | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Game Theory](Topics/game-theory/) | 1 |
