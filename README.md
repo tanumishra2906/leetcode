@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 18 | 4 | 0 |
+| 23 | 18 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 14 |
+| 1 days | 2 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-24 | 5 |
 | 2026-07-05 | 1 |
 | 2026-07-06 | 1 |
 | 2026-07-26 | 1 |
@@ -29,29 +28,31 @@ Contains topicwise list of solved problems.
 | 2026-09-03 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
+| 2026-09-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 55% |
-| Math | 7 | 32% |
-| Two Pointers | 6 | 27% |
-| String | 3 | 14% |
+| Array | 13 | 57% |
+| Math | 7 | 30% |
+| Two Pointers | 7 | 30% |
+| Sorting | 3 | 13% |
+| String | 3 | 13% |
 | Dynamic Programming | 2 | 9% |
 | Hash Table | 2 | 9% |
 | Linked List | 2 | 9% |
 | Recursion | 2 | 9% |
 | Simulation | 2 | 9% |
-| Sorting | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Hash Table](Topics/hash-table/) | 2 |
@@ -61,11 +62,12 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
+| [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
