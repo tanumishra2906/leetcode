@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 19 | 5 | 0 |
+| 25 | 19 | 6 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 15 |
+| 2 days | 2 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-05 | 1 |
 | 2026-07-06 | 1 |
 | 2026-07-26 | 1 |
 | 2026-07-29 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
 | 2026-09-09 | 2 |
+| 2026-09-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 58% |
-| Math | 7 | 29% |
-| Two Pointers | 7 | 29% |
-| Sorting | 4 | 17% |
-| Hash Table | 3 | 13% |
-| String | 3 | 13% |
+| Array | 14 | 56% |
+| Math | 8 | 32% |
+| Two Pointers | 7 | 28% |
+| Sorting | 4 | 16% |
+| Hash Table | 3 | 12% |
+| String | 3 | 12% |
 | Dynamic Programming | 2 | 8% |
 | Linked List | 2 | 8% |
 | Recursion | 2 | 8% |
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
