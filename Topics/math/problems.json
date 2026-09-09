@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T19:34:22.593Z",
+  "updatedAt": "2026-09-09T19:57:53.880Z",
   "problems": [
     {
       "frontendId": "9",
@@ -143,6 +143,26 @@
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
           "sha": "b39c8bf7751c916f2964f66ac2b94d923a37d8e9",
           "lastSyncedAt": "2026-09-02T19:33:08.086Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3871",
+      "title": "Count Commas in Range II",
+      "slug": "count-commas-in-range-ii",
+      "problemName": "3871-count-commas-in-range-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range-ii/",
+      "folderPath": "3871-count-commas-in-range-ii/",
+      "readmePath": "3871-count-commas-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3871-count-commas-in-range-ii.java",
+          "path": "3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.java",
+          "sha": "63cc69a2562c807277ca2c369f706e88af675152",
+          "lastSyncedAt": "2026-09-09T19:57:53.880Z"
         }
       ]
     }
