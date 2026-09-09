@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 18 | 5 | 0 |
+| 24 | 19 | 5 | 0 |
 
 ## Activity
 
@@ -28,34 +28,37 @@ Contains topicwise list of solved problems.
 | 2026-09-03 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
-| 2026-09-09 | 1 |
+| 2026-09-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 57% |
-| Math | 7 | 30% |
-| Two Pointers | 7 | 30% |
-| Sorting | 3 | 13% |
+| Array | 14 | 58% |
+| Math | 7 | 29% |
+| Two Pointers | 7 | 29% |
+| Sorting | 4 | 17% |
+| Hash Table | 3 | 13% |
 | String | 3 | 13% |
-| Dynamic Programming | 2 | 9% |
-| Hash Table | 2 | 9% |
-| Linked List | 2 | 9% |
-| Recursion | 2 | 9% |
-| Simulation | 2 | 9% |
+| Dynamic Programming | 2 | 8% |
+| Linked List | 2 | 8% |
+| Recursion | 2 | 8% |
+| Simulation | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
+| [Counting](Topics/counting/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Game Theory](Topics/game-theory/) | 1 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 1 |
@@ -65,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
