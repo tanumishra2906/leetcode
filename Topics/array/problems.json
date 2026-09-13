@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T18:28:24.735Z",
+  "updatedAt": "2026-09-13T18:29:51.582Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.java",
           "sha": "1ed7f1352420cd2e1edbdb79dd37cf19816cb9e0",
           "lastSyncedAt": "2026-09-03T18:21:22.176Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "835",
+      "title": "Image Overlap",
+      "slug": "image-overlap",
+      "problemName": "0835-image-overlap",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/image-overlap/",
+      "folderPath": "0835-image-overlap/",
+      "readmePath": "0835-image-overlap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0835-image-overlap.java",
+          "path": "0835-image-overlap/0835-image-overlap.java",
+          "sha": "284f3c9a804d9e2459913bb73d1b815c48aa2982",
+          "lastSyncedAt": "2026-09-13T18:29:51.582Z"
         }
       ]
     },
