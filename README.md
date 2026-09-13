@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 20 | 9 | 0 |
+| 30 | 20 | 10 | 0 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
-| 2026-09-13 | 1 |
+| 2026-09-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 59% |
-| Math | 8 | 28% |
-| Two Pointers | 8 | 28% |
-| Dynamic Programming | 4 | 14% |
-| Sorting | 4 | 14% |
+| Array | 18 | 60% |
+| Math | 8 | 27% |
+| Two Pointers | 8 | 27% |
+| Dynamic Programming | 4 | 13% |
+| Sorting | 4 | 13% |
 | Hash Table | 3 | 10% |
 | Simulation | 3 | 10% |
 | String | 3 | 10% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 8 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
