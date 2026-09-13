@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-12T18:29:12.430Z",
+  "updatedAt": "2026-09-13T18:28:24.127Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,6 +303,26 @@
           "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.java",
           "sha": "49ad28bc44b482d711fec0bfe6867e93058b2e49",
           "lastSyncedAt": "2026-09-02T19:32:43.479Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2149-rearrange-array-elements-by-sign.java",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
+          "sha": "2509b8ddb8e3098492426b24f6d386d16b2b3cd2",
+          "lastSyncedAt": "2026-09-13T18:28:24.127Z"
         }
       ]
     },
