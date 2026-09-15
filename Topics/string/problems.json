@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-06T18:00:58.245Z",
+  "updatedAt": "2026-09-15T18:15:25.987Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
           "sha": "c49bba419671335dc9bd272365acc9f851d7f1a0",
           "lastSyncedAt": "2026-09-06T18:00:58.245Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "problemName": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+      "folderPath": "2472-maximum-number-of-non-overlapping-palindrome-substrings/",
+      "readmePath": "2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
+          "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
+          "sha": "d88a0c9498924039ea45120e2955e4fd919b80d0",
+          "lastSyncedAt": "2026-09-15T18:15:25.987Z"
         }
       ]
     }
