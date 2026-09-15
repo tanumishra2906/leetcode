@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "union-find",
+    "name": "Union-Find"
+  },
+  "updatedAt": "2026-09-15T18:11:28.321Z",
+  "problems": [
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "0128-longest-consecutive-sequence/",
+      "readmePath": "0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0128-longest-consecutive-sequence.java",
+          "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
+          "sha": "289807b1e395f900a2e366151d62d37f4c489162",
+          "lastSyncedAt": "2026-09-15T18:11:28.321Z"
+        }
+      ]
+    }
+  ]
+}
