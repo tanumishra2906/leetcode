@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T18:24:45.295Z",
+  "updatedAt": "2026-09-15T18:11:28.321Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +143,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "1899fcfbaa9980849c65032a6fa438d1f248a4c2",
           "lastSyncedAt": "2026-09-12T18:29:12.430Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "0128-longest-consecutive-sequence/",
+      "readmePath": "0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0128-longest-consecutive-sequence.java",
+          "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
+          "sha": "289807b1e395f900a2e366151d62d37f4c489162",
+          "lastSyncedAt": "2026-09-15T18:11:28.321Z"
         }
       ]
     },
