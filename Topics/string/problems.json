@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-15T18:15:25.987Z",
+  "updatedAt": "2026-09-18T18:37:44.576Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
           "sha": "c49bba419671335dc9bd272365acc9f851d7f1a0",
           "lastSyncedAt": "2026-09-06T18:00:58.245Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1520",
+      "title": "Maximum Number of Non-Overlapping Substrings",
+      "slug": "maximum-number-of-non-overlapping-substrings",
+      "problemName": "1520-maximum-number-of-non-overlapping-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+      "folderPath": "1520-maximum-number-of-non-overlapping-substrings/",
+      "readmePath": "1520-maximum-number-of-non-overlapping-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1520-maximum-number-of-non-overlapping-substrings.java",
+          "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
+          "sha": "f8d86420222da364a219b30f71f29a6bb143359e",
+          "lastSyncedAt": "2026-09-18T18:37:44.576Z"
         }
       ]
     },
