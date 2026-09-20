@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 20 | 14 | 0 |
+| 36 | 21 | 14 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 23 |
+| 2 days | 9 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-31 | 4 |
-| 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
@@ -29,20 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 1 |
+| 2026-09-19 | 1 |
+| 2026-09-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 62% |
-| Math | 9 | 26% |
-| Two Pointers | 9 | 26% |
-| Dynamic Programming | 5 | 15% |
-| Hash Table | 5 | 15% |
-| Sorting | 4 | 12% |
-| Matrix | 3 | 9% |
-| Simulation | 3 | 9% |
-| String | 3 | 9% |
+| Array | 21 | 58% |
+| Math | 9 | 25% |
+| Two Pointers | 9 | 25% |
+| Hash Table | 6 | 17% |
+| Dynamic Programming | 5 | 14% |
+| Sorting | 5 | 14% |
+| String | 5 | 14% |
+| Simulation | 4 | 11% |
+| Matrix | 3 | 8% |
 | Divide and Conquer | 2 | 6% |
 
 ## Topics
@@ -61,7 +61,8 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Game Theory](Topics/game-theory/) | 1 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Greedy](Topics/greedy/) | 1 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 3 |
@@ -71,10 +72,10 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
-| [Simulation](Topics/simulation/) | 3 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Simulation](Topics/simulation/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 6 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
