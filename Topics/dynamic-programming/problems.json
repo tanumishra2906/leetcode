@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-16T19:23:58.337Z",
+  "updatedAt": "2026-09-21T16:55:58.854Z",
   "problems": [
     {
       "frontendId": "53",
@@ -103,6 +103,26 @@
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.java",
           "sha": "91e3ec27b0cd629f5abbd6884cb75add2baf8477",
           "lastSyncedAt": "2026-09-16T19:23:58.337Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3524-find-x-value-of-array-i.java",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
+          "sha": "50fe3e1941e78fe765cfd68121b5a97b35e18870",
+          "lastSyncedAt": "2026-09-21T16:55:58.854Z"
         }
       ]
     }
