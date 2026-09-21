@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-16T19:23:58.337Z",
+  "updatedAt": "2026-09-21T16:55:58.854Z",
   "problems": [
     {
       "frontendId": "9",
@@ -143,6 +143,26 @@
           "path": "2235-add-two-integers/2235-add-two-integers.java",
           "sha": "4bed3e121332c5b8f41789912db29c35b4875202",
           "lastSyncedAt": "2026-09-02T19:32:11.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3524-find-x-value-of-array-i.java",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
+          "sha": "50fe3e1941e78fe765cfd68121b5a97b35e18870",
+          "lastSyncedAt": "2026-09-21T16:55:58.854Z"
         }
       ]
     },
