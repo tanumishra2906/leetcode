@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-20T16:25:37.207Z",
+  "updatedAt": "2026-09-25T19:11:28.862Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
           "sha": "c49bba419671335dc9bd272365acc9f851d7f1a0",
           "lastSyncedAt": "2026-09-06T18:00:58.245Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1096-brace-expansion-ii.java",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
+          "sha": "3703193ecc3c57aa664cb7f5781fc94bd0e016a8",
+          "lastSyncedAt": "2026-09-25T19:11:28.862Z"
         }
       ]
     },
