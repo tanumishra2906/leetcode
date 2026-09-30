@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 21 | 14 | 1 |
+| 39 | 22 | 16 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 25 |
+| 1 days | 9 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-03 | 1 |
-| 2026-09-06 | 1 |
-| 2026-09-07 | 1 |
 | 2026-09-09 | 2 |
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
@@ -29,43 +26,47 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
+| 2026-09-21 | 1 |
+| 2026-09-28 | 1 |
+| 2026-10-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 58% |
-| Math | 9 | 25% |
-| Two Pointers | 9 | 25% |
-| Hash Table | 6 | 17% |
-| Dynamic Programming | 5 | 14% |
-| Sorting | 5 | 14% |
-| String | 5 | 14% |
-| Simulation | 4 | 11% |
+| Array | 22 | 56% |
+| Math | 10 | 26% |
+| Two Pointers | 9 | 23% |
+| String | 7 | 18% |
+| Dynamic Programming | 6 | 15% |
+| Hash Table | 6 | 15% |
+| Sorting | 5 | 13% |
+| Simulation | 4 | 10% |
+| Bracket Sequences | 3 | 8% |
 | Matrix | 3 | 8% |
-| Divide and Conquer | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 25 |
+| [backtracking](Topics/backtracking/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 9 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Math](Topics/math/) | 10 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -74,8 +75,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 6 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 9 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
