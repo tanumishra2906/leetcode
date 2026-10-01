@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T19:11:28.862Z",
+  "updatedAt": "2026-10-01T23:17:53.961Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "0169-majority-element/0169-majority-element.java",
           "sha": "8356359513737ea074ca62b9d85d962ece1a40ab",
           "lastSyncedAt": "2026-09-09T18:06:30.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "0268-missing-number/0268-missing-number.java",
+          "sha": "cf577d6ab3ac39cb1519d9f8714185f27a12379e",
+          "lastSyncedAt": "2026-10-01T23:17:53.961Z"
         }
       ]
     },
