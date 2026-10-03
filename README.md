@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 23 | 16 | 1 |
+| 41 | 23 | 16 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 29 |
+| 3 days | 9 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 2 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 1 |
 | 2026-10-01 | 1 |
 | 2026-10-02 | 1 |
+| 2026-10-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 57% |
-| Math | 11 | 28% |
-| Two Pointers | 9 | 23% |
-| Hash Table | 7 | 18% |
-| String | 7 | 18% |
-| Dynamic Programming | 6 | 15% |
+| Array | 23 | 56% |
+| Math | 11 | 27% |
+| Two Pointers | 9 | 22% |
+| String | 8 | 20% |
+| Dynamic Programming | 7 | 17% |
+| Hash Table | 7 | 17% |
 | Sorting | 6 | 15% |
+| Bracket Sequences | 4 | 10% |
 | Simulation | 4 | 10% |
-| Bracket Sequences | 3 | 8% |
-| Matrix | 3 | 8% |
+| Stack | 4 | 10% |
 
 ## Topics
 
@@ -55,13 +55,13 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 8 |
@@ -76,8 +76,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 9 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 11 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
