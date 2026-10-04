@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 23 | 17 | 2 |
+| 43 | 23 | 18 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 9 days | 31 |
+| 5 days | 9 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-12 | 1 |
 | 2026-09-13 | 2 |
 | 2026-09-14 | 1 |
 | 2026-09-15 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
+| 2026-10-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 55% |
+| Array | 24 | 56% |
 | Math | 11 | 26% |
 | String | 9 | 21% |
 | Two Pointers | 9 | 21% |
 | Dynamic Programming | 8 | 19% |
-| Hash Table | 7 | 17% |
+| Hash Table | 7 | 16% |
 | Sorting | 6 | 14% |
 | Bracket Sequences | 5 | 12% |
+| Simulation | 5 | 12% |
 | Stack | 5 | 12% |
-| Simulation | 4 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -67,14 +67,14 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 4 |
+| [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
-| [Simulation](Topics/simulation/) | 4 |
+| [Simulation](Topics/simulation/) | 5 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 12 |
