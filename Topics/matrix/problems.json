@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-30T00:57:28.274Z",
+  "updatedAt": "2026-10-04T19:48:25.543Z",
   "problems": [
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "0054-spiral-matrix/",
+      "readmePath": "0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0054-spiral-matrix.java",
+          "path": "0054-spiral-matrix/0054-spiral-matrix.java",
+          "sha": "fca78594bfbc54ed5818713c3339f1912252cb59",
+          "lastSyncedAt": "2026-10-04T19:48:25.543Z"
+        }
+      ]
+    },
     {
       "frontendId": "73",
       "title": "Set Matrix Zeroes",
