@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-18T18:37:44.576Z",
+  "updatedAt": "2026-10-04T18:22:25.408Z",
   "problems": [
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0678-valid-parenthesis-string.java",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.java",
+          "sha": "6eef7fcc964b8e38eccaa85d049817f0bcc418a0",
+          "lastSyncedAt": "2026-10-04T18:22:25.408Z"
+        }
+      ]
+    },
     {
       "frontendId": "1520",
       "title": "Maximum Number of Non-Overlapping Substrings",
