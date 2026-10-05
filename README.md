@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 24 | 18 | 2 |
+| 45 | 24 | 19 | 2 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
-| 2026-10-05 | 2 |
+| 2026-10-05 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 57% |
-| Math | 11 | 25% |
+| Array | 25 | 56% |
+| Math | 11 | 24% |
+| String | 10 | 22% |
 | Dynamic Programming | 9 | 20% |
-| String | 9 | 20% |
 | Two Pointers | 9 | 20% |
 | Hash Table | 7 | 16% |
-| Sorting | 6 | 14% |
-| Bracket Sequences | 5 | 11% |
+| Bracket Sequences | 6 | 13% |
+| Sorting | 6 | 13% |
+| Stack | 6 | 13% |
 | Simulation | 5 | 11% |
-| Stack | 5 | 11% |
 
 ## Topics
 
@@ -55,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 7 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 1 |
@@ -76,8 +76,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 12 |
+| [Stack](Topics/stack/) | 6 |
+| [String](Topics/string/) | 13 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
