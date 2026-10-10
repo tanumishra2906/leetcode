@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-01T23:17:53.961Z",
+  "updatedAt": "2026-10-10T21:44:03.860Z",
   "problems": [
     {
       "frontendId": "75",
@@ -123,6 +124,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "f8d86420222da364a219b30f71f29a6bb143359e",
           "lastSyncedAt": "2026-09-18T18:37:44.576Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2333-minimum-sum-of-squared-difference.java",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.java",
+          "sha": "de4ac88170d62cae7aff5e5b99e041cf502d76f2",
+          "lastSyncedAt": "2026-10-10T21:44:03.860Z"
         }
       ]
     }
