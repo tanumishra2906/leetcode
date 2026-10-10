@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
+  },
+  "updatedAt": "2026-10-10T21:44:03.860Z",
+  "problems": [
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2333-minimum-sum-of-squared-difference.java",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.java",
+          "sha": "de4ac88170d62cae7aff5e5b99e041cf502d76f2",
+          "lastSyncedAt": "2026-10-10T21:44:03.860Z"
+        }
+      ]
+    }
+  ]
+}
