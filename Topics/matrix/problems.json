@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-10-04T19:48:25.543Z",
+  "updatedAt": "2026-10-11T06:55:38.797Z",
   "problems": [
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "c96e5548d2b9059d0e3839c4e1088937d80725a1",
+          "lastSyncedAt": "2026-10-11T06:55:38.797Z"
+        }
+      ]
+    },
     {
       "frontendId": "54",
       "title": "Spiral Matrix",
