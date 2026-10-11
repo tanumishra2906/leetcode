@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 26 | 23 | 2 |
+| 52 | 26 | 24 | 2 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-06 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-09 | 2 |
-| 2026-10-11 | 2 |
+| 2026-10-11 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 55% |
+| Array | 29 | 56% |
 | String | 13 | 25% |
-| Math | 12 | 24% |
-| Dynamic Programming | 10 | 20% |
-| Bracket Sequences | 9 | 18% |
-| Stack | 9 | 18% |
-| Two Pointers | 9 | 18% |
-| Hash Table | 7 | 14% |
-| Sorting | 7 | 14% |
+| Math | 12 | 23% |
+| Dynamic Programming | 10 | 19% |
+| Two Pointers | 10 | 19% |
+| Bracket Sequences | 9 | 17% |
+| Stack | 9 | 17% |
+| Sorting | 8 | 15% |
+| Hash Table | 7 | 13% |
 | Greedy | 5 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -76,11 +76,11 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 5 |
-| [Sorting](Topics/sorting/) | 7 |
+| [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 16 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 11 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
