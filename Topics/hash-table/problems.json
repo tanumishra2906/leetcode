@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-10-01T23:17:53.961Z",
+  "updatedAt": "2026-10-12T16:22:04.144Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +144,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.java",
           "sha": "f8d86420222da364a219b30f71f29a6bb143359e",
           "lastSyncedAt": "2026-09-18T18:37:44.576Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.java",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.java",
+          "sha": "613b40f43477457a10ba6a04ee3f53de9eab650f",
+          "lastSyncedAt": "2026-10-12T16:22:04.144Z"
         }
       ]
     },
