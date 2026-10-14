@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T16:22:04.144Z",
+  "updatedAt": "2026-10-14T01:37:57.732Z",
   "problems": [
     {
       "frontendId": "1",
@@ -672,6 +672,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "7bf1b2b36b2b8919cb1c27f12d18da1bbe0b598e",
           "lastSyncedAt": "2026-09-02T19:31:54.598Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3727-maximum-alternating-sum-of-squares.java",
+          "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
+          "sha": "a2a889f48fa75124186afeaef825ed206569183e",
+          "lastSyncedAt": "2026-10-14T01:37:57.732Z"
         }
       ]
     }
