@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 26 | 25 | 2 |
+| 54 | 26 | 26 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 37 |
+| 2 days | 9 days | 38 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-28 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 2 |
 | 2026-10-11 | 3 |
 | 2026-10-14 | 1 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 57% |
-| String | 13 | 25% |
-| Math | 12 | 23% |
+| Array | 30 | 56% |
+| Math | 13 | 24% |
+| String | 13 | 24% |
 | Dynamic Programming | 10 | 19% |
 | Two Pointers | 10 | 19% |
 | Bracket Sequences | 9 | 17% |
 | Sorting | 9 | 17% |
 | Stack | 9 | 17% |
+| Greedy | 7 | 13% |
 | Hash Table | 7 | 13% |
-| Greedy | 6 | 11% |
 
 ## Topics
 
@@ -63,11 +63,11 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Game Theory](Topics/game-theory/) | 1 |
-| [Greedy](Topics/greedy/) | 6 |
+| [Greedy](Topics/greedy/) | 7 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 12 |
+| [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
