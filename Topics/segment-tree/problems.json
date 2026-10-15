@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "segment-tree",
+    "name": "Segment Tree",
+    "tagId": "29"
+  },
+  "updatedAt": "2026-10-15T05:07:57.332Z",
+  "problems": [
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.java",
+          "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.java",
+          "sha": "87a8163af960c54e3deb01e1f28191bacedc94f3",
+          "lastSyncedAt": "2026-10-15T05:07:57.332Z"
+        }
+      ]
+    }
+  ]
+}
