@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-06T18:47:49.940Z",
+  "updatedAt": "2026-10-18T17:30:48.284Z",
   "problems": [
     {
       "frontendId": "22",
@@ -183,6 +184,26 @@
           "path": "0877-stone-game/0877-stone-game.java",
           "sha": "f6830c06d00eecc89f5292f49be4056085ce426b",
           "lastSyncedAt": "2026-09-02T19:32:16.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "sha": "626ece2abf043a43e5e6be1c6a3048fccc963cd7",
+          "lastSyncedAt": "2026-10-18T17:30:48.284Z"
         }
       ]
     },
