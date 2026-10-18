@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "divide-and-conquer",
-    "name": "Divide and Conquer"
+    "name": "Divide and Conquer",
+    "tagId": "12"
   },
-  "updatedAt": "2026-09-11T19:03:08.032Z",
+  "updatedAt": "2026-10-18T17:30:48.284Z",
   "problems": [
     {
       "frontendId": "53",
@@ -43,6 +44,26 @@
           "path": "0169-majority-element/0169-majority-element.java",
           "sha": "8356359513737ea074ca62b9d85d962ece1a40ab",
           "lastSyncedAt": "2026-09-09T18:06:30.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "sha": "626ece2abf043a43e5e6be1c6a3048fccc963cd7",
+          "lastSyncedAt": "2026-10-18T17:30:48.284Z"
         }
       ]
     }
