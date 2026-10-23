@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-19T21:58:40.789Z",
+  "updatedAt": "2026-10-23T01:45:27.560Z",
   "problems": [
     {
       "frontendId": "1",
@@ -712,6 +712,26 @@
           "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
           "sha": "50fe3e1941e78fe765cfd68121b5a97b35e18870",
           "lastSyncedAt": "2026-09-21T16:56:01.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3644-maximum-k-to-sort-a-permutation.java",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
+          "sha": "616ca7deb189a586ab8781a9aca0466c26c0cf82",
+          "lastSyncedAt": "2026-10-23T01:45:27.560Z"
         }
       ]
     },
