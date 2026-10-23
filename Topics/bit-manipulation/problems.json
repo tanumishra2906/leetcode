@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bit-manipulation",
-    "name": "Bit Manipulation"
+    "name": "Bit Manipulation",
+    "tagId": "19"
   },
-  "updatedAt": "2026-10-01T23:17:53.961Z",
+  "updatedAt": "2026-10-23T01:45:27.560Z",
   "problems": [
     {
       "frontendId": "136",
@@ -43,6 +44,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "cf577d6ab3ac39cb1519d9f8714185f27a12379e",
           "lastSyncedAt": "2026-10-01T23:17:53.961Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3644-maximum-k-to-sort-a-permutation.java",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
+          "sha": "616ca7deb189a586ab8781a9aca0466c26c0cf82",
+          "lastSyncedAt": "2026-10-23T01:45:27.560Z"
         }
       ]
     }
