@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "depth-first-search",
-    "name": "Depth-First Search"
+    "name": "Depth-First Search",
+    "tagId": "21"
   },
-  "updatedAt": "2026-09-10T20:27:43.255Z",
+  "updatedAt": "2026-10-25T20:20:13.426Z",
   "problems": [
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1254-number-of-closed-islands.java",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.java",
+          "sha": "09fc61bfe14c75dc843f7cad6c423f1b9fd7b6d0",
+          "lastSyncedAt": "2026-10-25T20:20:13.426Z"
+        }
+      ]
+    },
     {
       "frontendId": "2265",
       "title": "Count Nodes Equal to Average of Subtree",
