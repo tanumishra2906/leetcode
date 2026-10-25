@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T01:45:27.560Z",
+  "updatedAt": "2026-10-25T20:20:13.426Z",
   "problems": [
     {
       "frontendId": "1",
@@ -492,6 +492,26 @@
           "path": "0877-stone-game/0877-stone-game.java",
           "sha": "f6830c06d00eecc89f5292f49be4056085ce426b",
           "lastSyncedAt": "2026-09-02T19:32:16.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1254-number-of-closed-islands.java",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.java",
+          "sha": "09fc61bfe14c75dc843f7cad6c423f1b9fd7b6d0",
+          "lastSyncedAt": "2026-10-25T20:20:13.426Z"
         }
       ]
     },
