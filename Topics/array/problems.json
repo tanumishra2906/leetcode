@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T20:20:13.426Z",
+  "updatedAt": "2026-10-26T20:13:27.082Z",
   "problems": [
     {
       "frontendId": "1",
@@ -732,6 +732,26 @@
           "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
           "sha": "50fe3e1941e78fe765cfd68121b5a97b35e18870",
           "lastSyncedAt": "2026-09-21T16:56:01.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3619",
+      "title": "Count Islands With Total Value Divisible by K",
+      "slug": "count-islands-with-total-value-divisible-by-k",
+      "problemName": "3619-count-islands-with-total-value-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+      "folderPath": "3619-count-islands-with-total-value-divisible-by-k/",
+      "readmePath": "3619-count-islands-with-total-value-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3619-count-islands-with-total-value-divisible-by-k.java",
+          "path": "3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.java",
+          "sha": "62d883739a9d9e2b13cabfe3425c128cb6200282",
+          "lastSyncedAt": "2026-10-26T20:13:27.082Z"
         }
       ]
     },
