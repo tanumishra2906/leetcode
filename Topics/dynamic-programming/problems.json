@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T17:30:48.284Z",
+  "updatedAt": "2026-10-28T18:06:38.007Z",
   "problems": [
     {
       "frontendId": "22",
@@ -264,6 +264,26 @@
           "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
           "sha": "50fe3e1941e78fe765cfd68121b5a97b35e18870",
           "lastSyncedAt": "2026-09-21T16:56:01.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3882-minimum-xor-path-in-a-grid.java",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.java",
+          "sha": "b71856e9664558c07c3f1d6d056918e65c21c03a",
+          "lastSyncedAt": "2026-10-28T18:06:38.007Z"
         }
       ]
     }
