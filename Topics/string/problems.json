@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T17:22:34.713Z",
+  "updatedAt": "2026-10-30T18:38:12.438Z",
   "problems": [
     {
       "frontendId": "20",
@@ -324,6 +324,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e4a2d9d44e44c218bda507dad07abab60293ca10",
           "lastSyncedAt": "2026-09-20T16:25:37.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3970",
+      "title": "Shortest Path With At Most K Consecutive Identical Characters",
+      "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+      "problemName": "3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "folderPath": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "readmePath": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3970-shortest-path-with-at-most-k-consecutive-identical-characters.java",
+          "path": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java",
+          "sha": "c7e5cdc4b14bdd98ae23816358ef86d01f7a2657",
+          "lastSyncedAt": "2026-10-30T18:38:12.438Z"
         }
       ]
     }
