@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T18:06:38.007Z",
+  "updatedAt": "2026-10-31T17:56:03.063Z",
   "problems": [
     {
       "frontendId": "1",
@@ -772,6 +772,26 @@
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
           "sha": "616ca7deb189a586ab8781a9aca0466c26c0cf82",
           "lastSyncedAt": "2026-10-23T01:45:27.560Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3665",
+      "title": "Twisted Mirror Path Count",
+      "slug": "twisted-mirror-path-count",
+      "problemName": "3665-twisted-mirror-path-count",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/twisted-mirror-path-count/",
+      "folderPath": "3665-twisted-mirror-path-count/",
+      "readmePath": "3665-twisted-mirror-path-count/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3665-twisted-mirror-path-count.java",
+          "path": "3665-twisted-mirror-path-count/3665-twisted-mirror-path-count.java",
+          "sha": "d7e03e13967a504be0b2aac4fdefcbf1b21bca05",
+          "lastSyncedAt": "2026-10-31T17:56:03.063Z"
         }
       ]
     },
