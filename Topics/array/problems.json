@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T17:56:03.063Z",
+  "updatedAt": "2026-11-03T20:16:27.133Z",
   "problems": [
     {
       "frontendId": "1",
@@ -832,6 +832,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "a2a889f48fa75124186afeaef825ed206569183e",
           "lastSyncedAt": "2026-10-14T02:01:34.422Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.java",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.java",
+          "sha": "d7a21f81e76279667708e0191bad72308546afe9",
+          "lastSyncedAt": "2026-11-03T20:16:27.133Z"
         }
       ]
     },
