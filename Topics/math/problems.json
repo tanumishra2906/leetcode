@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-03T20:16:27.133Z",
+  "updatedAt": "2026-11-03T20:16:56.096Z",
   "problems": [
     {
       "frontendId": "9",
@@ -283,7 +283,7 @@
           "filename": "3736-minimum-moves-to-equal-array-elements-iii.java",
           "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.java",
           "sha": "d7a21f81e76279667708e0191bad72308546afe9",
-          "lastSyncedAt": "2026-11-03T20:16:27.133Z"
+          "lastSyncedAt": "2026-11-03T20:16:56.096Z"
         }
       ]
     },
