@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 29 | 29 | 2 |
+| 61 | 29 | 29 | 3 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
 | 2026-10-31 | 1 |
-| 2026-11-04 | 1 |
+| 2026-11-04 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 57% |
-| Math | 14 | 23% |
+| Array | 35 | 57% |
+| Math | 15 | 25% |
 | String | 14 | 23% |
-| Dynamic Programming | 10 | 17% |
-| Two Pointers | 10 | 17% |
+| Dynamic Programming | 11 | 18% |
+| Two Pointers | 10 | 16% |
 | Bracket Sequences | 9 | 15% |
+| Hash Table | 9 | 15% |
 | Sorting | 9 | 15% |
 | Stack | 9 | 15% |
-| Hash Table | 8 | 13% |
-| Greedy | 7 | 12% |
+| Greedy | 7 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 43 |
+| [Array](Topics/array/) | 44 |
 | [backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
@@ -63,14 +63,14 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 14 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 10 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Hash Table](Topics/hash-table/) | 11 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 15 |
+| [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
@@ -81,6 +81,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 17 |
