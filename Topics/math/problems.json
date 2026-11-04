@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-03T20:16:56.096Z",
+  "updatedAt": "2026-11-04T16:26:35.249Z",
   "problems": [
     {
       "frontendId": "9",
@@ -204,6 +204,26 @@
           "path": "2235-add-two-integers/2235-add-two-integers.java",
           "sha": "4bed3e121332c5b8f41789912db29c35b4875202",
           "lastSyncedAt": "2026-09-02T19:32:11.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java",
+          "sha": "597354c4881d846942f0b4193aa3907945ecd802",
+          "lastSyncedAt": "2026-11-04T16:26:35.249Z"
         }
       ]
     },
