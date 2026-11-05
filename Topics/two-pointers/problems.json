@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T14:54:57.583Z",
+  "updatedAt": "2026-11-05T19:17:01.551Z",
   "problems": [
     {
       "frontendId": "15",
@@ -192,6 +192,26 @@
           "path": "0283-move-zeroes/0283-move-zeroes.java",
           "sha": "2e7ae26325cf0272acffcd71ad81c4da5ce8a59b",
           "lastSyncedAt": "2026-10-01T02:58:52.073Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1385-find-the-distance-value-between-two-arrays.java",
+          "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
+          "sha": "edeae64132678b4b2e369279a0e1b1cc3ec4e1d6",
+          "lastSyncedAt": "2026-11-05T19:17:01.551Z"
         }
       ]
     },
