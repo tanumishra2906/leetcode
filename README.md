@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 29 | 29 | 3 |
+| 62 | 30 | 29 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 43 |
+| 1 days | 9 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 3 |
 | 2026-10-06 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-28 | 1 |
 | 2026-10-31 | 1 |
 | 2026-11-04 | 2 |
+| 2026-11-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 57% |
-| Math | 15 | 25% |
+| Array | 36 | 58% |
+| Math | 15 | 24% |
 | String | 14 | 23% |
 | Dynamic Programming | 11 | 18% |
-| Two Pointers | 10 | 16% |
+| Two Pointers | 11 | 18% |
+| Sorting | 10 | 16% |
 | Bracket Sequences | 9 | 15% |
 | Hash Table | 9 | 15% |
-| Sorting | 9 | 15% |
 | Stack | 9 | 15% |
 | Greedy | 7 | 11% |
 
@@ -49,10 +49,10 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 44 |
+| [Array](Topics/array/) | 45 |
 | [backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -82,11 +82,11 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 17 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 | [Union-Find](Topics/union-find/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
