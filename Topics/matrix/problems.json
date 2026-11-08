@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-28T18:06:38.007Z",
+  "updatedAt": "2026-11-08T11:36:19.893Z",
   "problems": [
     {
       "frontendId": "48",
@@ -104,6 +104,26 @@
           "path": "0867-transpose-matrix/0867-transpose-matrix.c",
           "sha": "96f963ed2960651948c23c937f7828f408a60bf2",
           "lastSyncedAt": "2026-09-02T19:34:01.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1267-count-servers-that-communicate.java",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.java",
+          "sha": "8ba97be0a8d49d1f0ba044fd789bab432a92f167",
+          "lastSyncedAt": "2026-11-08T11:36:19.893Z"
         }
       ]
     },
