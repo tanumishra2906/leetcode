@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-08T11:36:19.893Z",
+  "updatedAt": "2026-11-08T11:37:07.644Z",
   "problems": [
     {
       "frontendId": "1267",
@@ -23,7 +23,7 @@
           "filename": "1267-count-servers-that-communicate.java",
           "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.java",
           "sha": "8ba97be0a8d49d1f0ba044fd789bab432a92f167",
-          "lastSyncedAt": "2026-11-08T11:36:19.893Z"
+          "lastSyncedAt": "2026-11-08T11:37:07.644Z"
         }
       ]
     },
