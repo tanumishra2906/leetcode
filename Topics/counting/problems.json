@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "counting",
-    "name": "Counting"
+    "name": "Counting",
+    "tagId": "61062"
   },
-  "updatedAt": "2026-09-09T18:06:30.003Z",
+  "updatedAt": "2026-11-08T11:36:19.893Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +24,26 @@
           "path": "0169-majority-element/0169-majority-element.java",
           "sha": "8356359513737ea074ca62b9d85d962ece1a40ab",
           "lastSyncedAt": "2026-09-09T18:06:30.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1267-count-servers-that-communicate.java",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.java",
+          "sha": "8ba97be0a8d49d1f0ba044fd789bab432a92f167",
+          "lastSyncedAt": "2026-11-08T11:36:19.893Z"
         }
       ]
     }
