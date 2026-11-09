@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T11:37:07.644Z",
+  "updatedAt": "2026-11-09T18:30:20.234Z",
   "problems": [
     {
       "frontendId": "1",
@@ -572,6 +572,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "626ece2abf043a43e5e6be1c6a3048fccc963cd7",
           "lastSyncedAt": "2026-10-18T17:30:48.284Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1606",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "slug": "find-servers-that-handled-most-number-of-requests",
+      "problemName": "1606-find-servers-that-handled-most-number-of-requests",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
+      "folderPath": "1606-find-servers-that-handled-most-number-of-requests/",
+      "readmePath": "1606-find-servers-that-handled-most-number-of-requests/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1606-find-servers-that-handled-most-number-of-requests.java",
+          "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.java",
+          "sha": "78f1fc7017d8d57ee01d13771ad2cb4cbefccb7f",
+          "lastSyncedAt": "2026-11-09T18:30:20.234Z"
         }
       ]
     },
