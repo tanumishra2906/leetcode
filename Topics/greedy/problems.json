@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-14T19:17:57.104Z",
+  "updatedAt": "2026-11-11T20:38:37.046Z",
   "problems": [
     {
       "frontendId": "678",
@@ -144,6 +144,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "a2a889f48fa75124186afeaef825ed206569183e",
           "lastSyncedAt": "2026-10-14T01:39:33.589Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "slug": "minimum-cost-to-acquire-required-items",
+      "problemName": "3789-minimum-cost-to-acquire-required-items",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+      "folderPath": "3789-minimum-cost-to-acquire-required-items/",
+      "readmePath": "3789-minimum-cost-to-acquire-required-items/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3789-minimum-cost-to-acquire-required-items.java",
+          "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.java",
+          "sha": "e080caa00e5e7e4291f155abe0039fe7178408b4",
+          "lastSyncedAt": "2026-11-11T20:38:37.046Z"
         }
       ]
     }
