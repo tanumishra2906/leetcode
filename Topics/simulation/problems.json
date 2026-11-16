@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-10-04T19:48:25.543Z",
+  "updatedAt": "2026-11-16T19:34:08.831Z",
   "problems": [
     {
       "frontendId": "54",
@@ -83,6 +84,26 @@
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "2509b8ddb8e3098492426b24f6d386d16b2b3cd2",
           "lastSyncedAt": "2026-09-13T18:28:24.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2243-calculate-digit-sum-of-a-string.java",
+          "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.java",
+          "sha": "ee6276aa99488ead2e671862e3a258576d8ef4b2",
+          "lastSyncedAt": "2026-11-16T19:34:08.831Z"
         }
       ]
     },
