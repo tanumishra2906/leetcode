@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T18:15:18.960Z",
+  "updatedAt": "2026-11-17T18:15:22.847Z",
   "problems": [
     {
       "frontendId": "22",
@@ -263,7 +263,7 @@
           "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
           "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
           "sha": "19e8ad568050becd53a02748eccc911a3ed6a60e",
-          "lastSyncedAt": "2026-11-17T18:15:18.960Z"
+          "lastSyncedAt": "2026-11-17T18:15:22.847Z"
         }
       ]
     },
