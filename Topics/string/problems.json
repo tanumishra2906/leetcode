@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T19:34:08.831Z",
+  "updatedAt": "2026-11-17T18:15:22.847Z",
   "problems": [
     {
       "frontendId": "20",
@@ -324,6 +324,26 @@
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.java",
           "sha": "d88a0c9498924039ea45120e2955e4fd919b80d0",
           "lastSyncedAt": "2026-09-15T18:15:25.987Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "sha": "19e8ad568050becd53a02748eccc911a3ed6a60e",
+          "lastSyncedAt": "2026-11-17T18:15:22.847Z"
         }
       ]
     },
