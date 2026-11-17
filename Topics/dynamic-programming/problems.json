@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:26:35.249Z",
+  "updatedAt": "2026-11-17T18:15:18.960Z",
   "problems": [
     {
       "frontendId": "22",
@@ -244,6 +244,26 @@
           "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
           "sha": "2657f96a34372aac95479eb426df447b37e5b048",
           "lastSyncedAt": "2026-09-30T00:57:28.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "sha": "19e8ad568050becd53a02748eccc911a3ed6a60e",
+          "lastSyncedAt": "2026-11-17T18:15:18.960Z"
         }
       ]
     },
