@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "tree",
-    "name": "Tree"
+    "name": "Tree",
+    "tagId": "20"
   },
-  "updatedAt": "2026-09-10T20:27:44.679Z",
+  "updatedAt": "2026-11-21T19:59:06.060Z",
   "problems": [
     {
       "frontendId": "2265",
@@ -23,6 +24,26 @@
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.java",
           "sha": "8fc532ef10ef9d7937c146ed7168b0f132c74797",
           "lastSyncedAt": "2026-09-10T20:27:44.679Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "3331-find-subtree-sizes-after-changes/",
+      "readmePath": "3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3331-find-subtree-sizes-after-changes.java",
+          "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.java",
+          "sha": "a44aef78772deaafc56ab433ab0bc351af9ca772",
+          "lastSyncedAt": "2026-11-21T19:59:06.060Z"
         }
       ]
     }
