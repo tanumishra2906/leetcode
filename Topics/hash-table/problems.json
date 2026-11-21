@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T16:26:35.249Z",
+  "updatedAt": "2026-11-21T19:59:06.060Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.java",
           "sha": "87a8163af960c54e3deb01e1f28191bacedc94f3",
           "lastSyncedAt": "2026-10-15T05:07:57.332Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "3331-find-subtree-sizes-after-changes/",
+      "readmePath": "3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3331-find-subtree-sizes-after-changes.java",
+          "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.java",
+          "sha": "a44aef78772deaafc56ab433ab0bc351af9ca772",
+          "lastSyncedAt": "2026-11-21T19:59:06.060Z"
         }
       ]
     },
