@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 66 | 31 | 31 | 4 |
+| 67 | 31 | 32 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 47 |
+| 1 days | 9 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 1 |
 | 2026-10-09 | 2 |
 | 2026-10-11 | 3 |
 | 2026-10-14 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-08 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-17 | 2 |
+| 2026-11-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 37 | 56% |
+| Array | 38 | 57% |
+| String | 17 | 25% |
 | Math | 16 | 24% |
-| String | 16 | 24% |
 | Dynamic Programming | 12 | 18% |
 | Two Pointers | 12 | 18% |
+| Hash Table | 10 | 15% |
 | Sorting | 10 | 15% |
-| Bracket Sequences | 9 | 14% |
-| Hash Table | 9 | 14% |
-| Stack | 9 | 14% |
+| Bracket Sequences | 9 | 13% |
+| Stack | 9 | 13% |
 | Greedy | 8 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 47 |
+| [Array](Topics/array/) | 48 |
 | [backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 3 |
@@ -61,13 +61,13 @@ Contains topicwise list of solved problems.
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 2 |
-| [Depth-First Search](Topics/depth-first-search/) | 4 |
+| [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 17 |
@@ -84,8 +84,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 19 |
-| [Tree](Topics/tree/) | 1 |
+| [String](Topics/string/) | 20 |
+| [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 3 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
