@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 31 | 32 | 4 |
+| 68 | 32 | 32 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 48 |
+| 2 days | 9 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-09 | 2 |
 | 2026-10-11 | 3 |
 | 2026-10-14 | 1 |
 | 2026-10-15 | 2 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 1 |
 | 2026-11-17 | 2 |
 | 2026-11-22 | 1 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 57% |
-| String | 17 | 25% |
+| Array | 38 | 56% |
+| String | 18 | 26% |
 | Math | 16 | 24% |
 | Dynamic Programming | 12 | 18% |
 | Two Pointers | 12 | 18% |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 20 |
+| [String](Topics/string/) | 21 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 3 |
