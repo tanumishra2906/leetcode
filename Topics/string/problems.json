@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T20:58:07.547Z",
+  "updatedAt": "2026-11-22T20:58:27.570Z",
   "problems": [
     {
       "frontendId": "20",
@@ -284,6 +284,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
           "sha": "352a510d2abef6ea92e55c3a6cbb166514cf3f78",
           "lastSyncedAt": "2026-09-28T09:34:37.889Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.java",
+          "path": "2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.java",
+          "sha": "e7d8efcd8f1c436e69b73c0deb66dfaac3587447",
+          "lastSyncedAt": "2026-11-22T20:58:27.570Z"
         }
       ]
     },
