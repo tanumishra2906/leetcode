@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T19:17:01.551Z",
+  "updatedAt": "2026-11-25T19:30:13.848Z",
   "problems": [
     {
       "frontendId": "268",
@@ -64,6 +64,26 @@
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.java",
           "sha": "de4ac88170d62cae7aff5e5b99e041cf502d76f2",
           "lastSyncedAt": "2026-10-10T21:44:03.860Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "3934-smallest-unique-subarray/",
+      "readmePath": "3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3934-smallest-unique-subarray.java",
+          "path": "3934-smallest-unique-subarray/3934-smallest-unique-subarray.java",
+          "sha": "f4956dcc6aaf5b56ab5e45583aa0095c47b171dc",
+          "lastSyncedAt": "2026-11-25T19:30:13.848Z"
         }
       ]
     }
