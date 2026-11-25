@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T20:58:07.547Z",
+  "updatedAt": "2026-11-25T19:30:13.848Z",
   "problems": [
     {
       "frontendId": "1",
@@ -972,6 +972,26 @@
           "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.java",
           "sha": "b71856e9664558c07c3f1d6d056918e65c21c03a",
           "lastSyncedAt": "2026-10-28T18:06:38.007Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "3934-smallest-unique-subarray/",
+      "readmePath": "3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3934-smallest-unique-subarray.java",
+          "path": "3934-smallest-unique-subarray/3934-smallest-unique-subarray.java",
+          "sha": "f4956dcc6aaf5b56ab5e45583aa0095c47b171dc",
+          "lastSyncedAt": "2026-11-25T19:30:13.848Z"
         }
       ]
     }
